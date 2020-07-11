@@ -78,4 +78,4 @@ Without wasting any time, let's dig in deep & start discussing one by one about 
 ## About the Author
    - ***Aman Saxena*** is pursuing a degree in Computer Science. He has a keen interest in Competitive Programming & Web Development. He's fond of playing Cricket & solving Big-O complexities. When he's not glued to a computer screen, he will be probably exploring the mighty Universe. For any advice or a fruitful discussion, you may connect with him on LinkedIn [@Aman](https://www.linkedin.com/in/amansaxena333/)
 
-### **Headshot** : [Image](https://github.com/Aman333Saxena/engineering-education/blob/master/image/Aman.jpg)
+### **Headshot** : [Image](https://github.com/Aman333Saxena/Articles/blob/master/Article1/image/Aman.jpeg)
