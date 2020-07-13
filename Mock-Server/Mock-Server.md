@@ -20,7 +20,7 @@
 - Mock Servers easily recreate all types of responses for HTTP dependencies such as REST or RPC services to test applications easily and effectively. They isolate the system-under-test to ensure tests run reliably and only fail when there is a genuine bug.
 - These servers easily setup mock responses independently for each test to ensure test data is encapsulated with each test. Avoid sharing data between tests that are difficult to manage and maintain that decrease the risks of tests infecting each other.
 
-## A Complete Roadmap
+## Mock Server: A Complete Roadmap
 
 ### Step 1: So, I have my APIs ready. What should I do now to create a mock server?
  - Apart from all of the traditional ways of doing things, we're always seeking simpler and more efficient methods to do the same work with increased productivity. Technology aiding another technology has been one of the important features of the modern era. On similar lines, we'll be using the [Postman](https://www.postman.com/downloads/) tool to ease the process.
@@ -75,4 +75,4 @@
 ## About the Author
    - ***Aman Saxena*** is pursuing a degree in Computer Science. He has a keen interest in Competitive Programming & Web Development. He is fond of playing Cricket & solving Big-O complexities. When he’s not glued to a computer screen, he is likely exploring the mighty Universe. For any query or a fruitful discussion, you may connect with him on LinkedIn [@Aman](https://www.linkedin.com/in/amansaxena333/)
 
-### Headshot = [Image](./image/aman.png)
+### Headshot: [Image](./image/aman.png)
